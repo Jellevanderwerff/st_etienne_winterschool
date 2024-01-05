@@ -2,3 +2,4 @@ venv/
 .DS_Store
 personal_notes/
 .ipynb_checkpoints/
+scratch.py
