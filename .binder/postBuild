@@ -1,4 +1,4 @@
-pip install git+https://github.com/jellevanderwerff/thebeat.git@main#egg='thebeat[music_notation]'
+pip install 'thebeat[music_notation]'
 pip install seaborn
 jupyter nbconvert --ClearOutputPreprocessor.enabled=True --inplace notebooks/beginner.ipynb
 jupyter nbconvert --ClearOutputPreprocessor.enabled=True --inplace notebooks/advanced.ipynb
